@@ -1,4 +1,4 @@
-# Part-1-OOP-Programming---JAVA---Inheritance-Design-Lab-
+# Part-1-OOP-Programming-JAVA-Inheritance-Design-Lab-
 (Steps to Follow)
 1. Unzip and open the file in Eclipse.
 2. In the src folder comment the  **public void work()** method in <strong> Doctor.java, Nurse.java and Surgeon.java </strong>
